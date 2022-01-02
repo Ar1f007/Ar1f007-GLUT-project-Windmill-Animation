@@ -8,7 +8,7 @@ This is a simple animation project where a windmill is shown rotating in the bac
 
 - [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
-- [Demo](#demo)
+
 - [Links](#links)
 - [Built with](#built)
 

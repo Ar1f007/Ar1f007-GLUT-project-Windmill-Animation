@@ -22,10 +22,6 @@ To draw an animation using glut/opengl library.
 
 ![](./screenshot/project-ss.jpg)
 
-### Demo
-
-![](./demo-video/demo.mp4)
-
 ### Links
 
 - [Project demo](https://youtu.be/Vez51t7xgds)

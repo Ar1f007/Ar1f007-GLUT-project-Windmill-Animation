@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1641136285 source:c:\users\arif\documents\glut\windmill\main.cpp
+1641140256 source:c:\users\arif\documents\glut\windmill\main.cpp
 	<GL/gl.h>
 	<GL/glut.h>
 	<math.h>
